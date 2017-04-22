@@ -7,6 +7,7 @@ public class Challenge extends Head {
 
 	public static void main(String[] args) {
 		PApplet.main("level3.Processing");
+
 	}
 
 	public Challenge(Roomba roomba) {
@@ -14,10 +15,10 @@ public class Challenge extends Head {
 	}
 
 	public void initialize() {
-	
+
 	}
 
 	public void loop() {
-	
+
 	}
 }
